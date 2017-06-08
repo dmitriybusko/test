@@ -1,2 +1,4 @@
 system.out.plintln("hellow owrld!!");
 return 0;
+function(){
+}
